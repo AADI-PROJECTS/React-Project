@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryname": "United States",
+    "capital": "Washington, D.C.",
+    "papulation": 331000000,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 2,
+    "countryname": "China",
+    "capital": "Beijing",
+    "papulation": 1412600000,
+    "interestingFact": "China has the largest population in the world."
+  },
+  {
+    "id": 3,
+    "countryname": "India",
+    "capital": "New Delhi",
+    "papulation": 1366420000,
+    "interestingFact": "India is the world's largest democracy."
+  },
+  {
+    "id": 4,
+    "countryname": "Indonesia",
+    "capital": "Jakarta",
+    "papulation": 273000000,
+    "interestingFact": "Indonesia is the largest archipelago in the world."
+  },
+  {
+    "id": 5,
+    "countryname": "Pakistan",
+    "capital": "Islamabad",
+    "papulation": 225000000,
+    "interestingFact": "Pakistan has the second-largest Muslim population."
+  },
+  {
+    "id": 6,
+    "countryname": "Brazil",
+    "capital": "Brasília",
+    "papulation": 213000000,
+    "interestingFact": "Brazil is the largest country in South America."
+  },
+  {
+    "id": 7,
+    "countryname": "Russia",
+    "capital": "Moscow",
+    "papulation": 146000000,
+    "interestingFact": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 8,
+    "countryname": "Mexico",
+    "capital": "Mexico City",
+    "papulation": 126000000,
+    "interestingFact": "Mexico City is built on the ruins of the ancient Aztec capital, Tenochtitlan."
+  },
+  {
+    "id": 9,
+    "countryname": "France",
+    "capital": "Paris",
+    "papulation": 11142000,
+    "interestingFact": "Paris is known as the City of Light and is famous for its art, fashion, and culture."
+  },
+  {
+    "id": 10,
+    "countryname": "United Arab Emirates",
+    "capital": "Dubai",
+    "papulation": 3500000,
+    "interestingFact": "Dubai is renowned for its modern architecture, including the Burj Khalifa, the tallest building in the world."
+  }
+]

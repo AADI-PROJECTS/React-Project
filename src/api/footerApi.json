@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"FaLocationDot",
+        "title":"Find us",
+        "details":"New Delhi,Delhi"
+    },
+    {
+        "icon":"IoCallSharp",
+        "title":"Call us",
+        "details":"9981238212"
+    },
+    {
+        "icon":"TbMailPlus",
+        "title":"Mail us",
+        "details":"contect982@gmail.com"
+    }
+]
