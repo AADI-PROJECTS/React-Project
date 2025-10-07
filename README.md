@@ -1,5 +1,7 @@
-# React + Vite
+# React + Vite 
+ Note(For the best experience, please view this site on a desktop device.)
 # Explore Site https://reactdynamicpages.netlify.app/
+# warning open in desktop device
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
